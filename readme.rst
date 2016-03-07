@@ -2,7 +2,7 @@
 SimpleXML Starter - XML Processing
 ##################################
 
-This is the starter project for working with SimpleXML.
+This is a sample project for working with SimpleXML.
 
 **************
 Intended Usage
@@ -10,7 +10,7 @@ Intended Usage
 
 Fork this project.
 Clone it locally.
-Enhance it per tutorial xml-xml02.
+Tutorial xml-xml02 walks you through the pieces found here.
 
 *****
 Setup
