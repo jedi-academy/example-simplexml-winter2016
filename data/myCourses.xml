@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE timestable SYSTEM "timetable.dtd">
+
+<timestable year="2016" term="4">
+  <day date="Wednesday">
+    <schedule classType="Lecture">
+      <chooseTimeslot>"9:30"</chooseTimeslot>
+      <chooseCourse>"COMP 4945"</chooseCourse>
+      <chooseDay>"Wednesday"</chooseDay>
+      <room>"SE12 319"</room>
+      <instructor>"Tejinder Randhawa"</instructor>
+    </schedule>
+  </day>
+  <timeslot time="9:30">
+    <schedule classType="Lab">
+      <chooseTimeslot>"9:30"</chooseTimeslot>
+      <chooseCourse>"COMP 4945"</chooseCourse>
+      <chooseDay>"Wednesday"</chooseDay>
+      <room>"SE12 319"</room>
+      <instructor>"Tejinder Randhawa"</instructor>
+    </schedule>
+  </timeslot>
+  <course classNumber="COMP 4945" classTitle="Client Server">
+    <schedule classType="Lecture">
+      <chooseTimeslot>"9:30"</chooseTimeslot>
+      <chooseCourse>"COMP 4945"</chooseCourse>
+      <chooseDay>"Wednesday"</chooseDay>
+      <room>"SE12 319"</room>
+      <instructor>"Tejinder Randhawa"</instructor>
+    </schedule>
+  </course>
+</timestable>
